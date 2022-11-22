@@ -1,0 +1,15 @@
+
+p=int(input("enter principle: "))
+t=int(input("enter time:"))
+r=int(input("enter rate of intrest:"))
+si=(p*t*r)/100
+print(si,"is the simple intrest")
+emi=(si+p)/t*12
+print(emi,"is the emi")
+out put
+enter principle: 10
+enter time:3
+enter rate of intrest:1
+0.3 is the simple intrest
+
+41.2 is the emi
