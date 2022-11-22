@@ -1,0 +1,16 @@
+
+no=int(input("enter s.no: "))
+name=input("enter name:")
+address=input("enter address:")
+phoneno=int(input("enter your phone number:"))
+print(no)
+print(name,"is the name of the student\n",address,phoneno)
+
+output
+enter s.no: 1
+enter name:janu
+enter address:srikakulam
+enter your phone number:123456789 
+1
+janu is the name of the student
+ srikakulam 123456789
