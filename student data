@@ -1,0 +1,12 @@
+s=int(input('enter sno'))
+a=input('enter name:')
+b=input('enter group:')
+c,d,e=int(input('enter s1:')),int(input('enter s2:')),int(input('enter s3:'))
+if c>=35 and d>=35 and e>=35:
+    
+                 print('pass')
+
+else:
+    print('fail')
+print('student details \n',s,'\n',a,'\n',b,'\n',c,'\n',d,'\n',e,'\n')    
+             
