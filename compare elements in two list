@@ -1,0 +1,9 @@
+#list observation
+list1=[1,2,3]
+list2=[1,9,3]
+for i in list1:
+    if i in list2:
+        print('yes')
+else:
+    print('no')
+     
