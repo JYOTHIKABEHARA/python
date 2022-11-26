@@ -1,0 +1,5 @@
+a=int(input("enter a:"))
+b=int(input("enter b:"))
+print(a&b,"is the bistwise end")
+print(a|b,"is the or bitwise or")
+print(a^b,"is the xor bitwise operator")
