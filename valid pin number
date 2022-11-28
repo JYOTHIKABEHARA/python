@@ -1,0 +1,8 @@
+num=int(input("enter your  pin num:"))
+i=[123456]
+
+if num in i:
+         print("valid number")
+else:
+     print("in valid number")
+    
