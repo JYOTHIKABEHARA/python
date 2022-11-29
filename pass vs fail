@@ -1,0 +1,11 @@
+
+no=int(input("enter your number:"))
+name=input("enter your name:")
+group=input("enter your group:")
+s1,s2,s3=int(input("enter your s1 marks:")),int(input("enter your s2 marks:")),int(input("enter your s3 marks:"))
+if s1>35:
+    if s2>35:
+        if s3>35:
+            print("pass")
+else:
+    print("fail")
